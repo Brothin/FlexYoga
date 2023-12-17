@@ -13,8 +13,9 @@ https://youtu.be/ZqC-AchsOD4
 2. [Key Features](#key-features)
 3. [My Approach](#my-approach)
 4. [Technologies Used](#technologies-used)
-5. [ER Diagram](#er-diagram) 
-6. [Getting Started](#getting-started)
+5. [ER Diagram](#er-diagram)
+6. [Screenshots](#screenshots)
+7. [Getting Started](#getting-started)
 
 ## 🌟 Project Overview
 
@@ -80,7 +81,31 @@ This application is dedicated to fostering physical and mental well-being. It of
 
 ## ER Diagram
 
+## Screenshots
 
+### Sign-In Page
+![Screenshot (199)](https://github.com/Brothin/FlexYoga/assets/78947331/9ff62bdc-82b0-45b0-8071-2617fa154b12)
+
+### Landing Page
+![Screenshot (193)](https://github.com/Brothin/FlexYoga/assets/78947331/d1a041a5-ff69-4531-9f62-be1143295e76)
+
+### Gallery
+![Screenshot (194)](https://github.com/Brothin/FlexYoga/assets/78947331/9c2318be-b811-453b-b4b9-0cff1ae6dae2)
+
+### Demo Session
+![Screenshot (196)](https://github.com/Brothin/FlexYoga/assets/78947331/e4abd750-f8f4-4935-95e7-3c8c4d46271e)
+
+### Services
+![Screenshot (197)](https://github.com/Brothin/FlexYoga/assets/78947331/aba3d345-4478-41c2-a1a1-3eb2e7c94b84)
+
+### Cart and Admission Form
+![Screenshot (200)](https://github.com/Brothin/FlexYoga/assets/78947331/53593fc4-c180-4f9b-b4f3-8f9c88021bda)
+
+### Customer FeedBacks
+![Screenshot (195)](https://github.com/Brothin/FlexYoga/assets/78947331/4d92d582-7377-4679-b938-d95a3fafdf4e)
+
+### Contact
+![Screenshot (198)](https://github.com/Brothin/FlexYoga/assets/78947331/6a187bf7-dc52-4704-a831-c1d12290e85f)
 
 ## 🚀 Getting Started
 
