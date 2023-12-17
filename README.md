@@ -1,5 +1,5 @@
 # 🧘 Yoga and Meditation
-Welcome to the README file for the Yoga and Meditation web application. This project aims to create a holistic and beautiful MERN stack website as an internship assignment of Flexmoney providing comprehensive information and services related to yoga, meditation, and wellness retreats. The website is developed using a blend of HTML, CSS, JavaScript, Bootstrap, and React, with Vite serving as the streamlined development platform. I have also used Node as backend server and MongoDB as database to store all the details of user permanently. It is secured with Firebase authentication and authorization and the admission form is properly validated.
+Welcome to the README file for the Yoga and Meditation web application. This project aims to create a holistic and beautiful MERN stack website as an internship assignment of Flexmoney providing comprehensive information and services related to yoga, meditation, and wellness retreats. The website is developed using a blend of HTML, CSS, JavaScript, Bootstrap, and React, with Vite serving as the streamlined development platform. I have also used Express for backend server and MongoDB as database to store all the details of user permanently. It is secured with Firebase authentication and authorization and the admission form is properly validated.
 
 ## Hosted Web Link
 https://657eaeee66e83a44a22b5e43--effulgent-cheesecake-d1dc5f.netlify.app/
@@ -65,7 +65,7 @@ This application is dedicated to fostering physical and mental well-being. It of
 
 ## ⚡ Technologies Used
 
-The following technologies is utilized in this project:
+### The following technologies is utilized in this project:
 
 - HTML (Hypertext Markup Language) for structuring the content of the website.
 - CSS (Cascading Style Sheets) for styling and enhancing the visual appearance.
