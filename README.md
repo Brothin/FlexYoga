@@ -1,5 +1,5 @@
-# 🧘 Yoga and Meditation
-Welcome to the README file for the Yoga and Meditation web application. This project aims to create a holistic and beautiful MERN stack website as an internship assignment of Flexmoney providing comprehensive information and services related to yoga, meditation, and wellness retreats. The website is developed using a blend of HTML, CSS, JavaScript, Bootstrap, and React, with Vite serving as the streamlined development platform. I have also used Express for backend server and MongoDB as database to store all the details of user permanently. It is secured with Firebase authentication and authorization and the admission form is properly validated.
+# 🧘 FlexYoga
+Welcome to the README file for the FlexYoga web application. This project aims to create a holistic and beautiful MERN stack website as an internship assignment of Flexmoney providing comprehensive information and services related to yoga, meditation, and wellness retreats. The website is developed using a blend of HTML, CSS, JavaScript, Bootstrap, and React, with Vite serving as the streamlined development platform. I have also used Express for backend server and MongoDB as database to store all the details of user permanently. It is secured with Firebase authentication and authorization and the admission form is properly validated.
 
 ## Hosted Web Link
 https://657eaeee66e83a44a22b5e43--effulgent-cheesecake-d1dc5f.netlify.app/
@@ -13,7 +13,8 @@ https://youtu.be/ZqC-AchsOD4
 2. [Key Features](#key-features)
 3. [My Approach](#my-approach)
 4. [Technologies Used](#technologies-used)
-5. [Getting Started](#getting-started)
+5. [ER Diagram](#er-diagram) 
+6. [Getting Started](#getting-started)
 
 ## 🌟 Project Overview
 
@@ -30,7 +31,7 @@ This application is dedicated to fostering physical and mental well-being. It of
 - Secure user authentication and money transaction.
 
 ## 👨🏻‍💻 My Approach
-#### My approach for this project was:
+### My approach for this project was:
 
 1. Create frontend of the website using html, css and reactjs.
    
@@ -47,7 +48,7 @@ This application is dedicated to fostering physical and mental well-being. It of
 7. Show a "Payment Successful" message when the user is registered.
 
 
-#### The basic validations which I did in the project are as follows:
+### The basic validations which I did in the project are as follows:
 
 1. Every input field should be filled by the user.
    
@@ -77,14 +78,18 @@ This application is dedicated to fostering physical and mental well-being. It of
 - Node as JavaScript runtime environment and to perform server side operations.
 - MongoDB as database management system to store and retrieve information.
 
+## ER Diagram
+
+
+
 ## 🚀 Getting Started
 
 ### Clone the repository
 ```
-git clone https://github.com/Brothin/Yoga-and-Meditation.git
+git clone https://github.com/Brothin/FlexYoga.git
 ```
 ```
-cd Yoga-and-Meditation
+cd FlexYoga
 ```
 
 ### You need
