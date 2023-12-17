@@ -13,7 +13,7 @@ https://youtu.be/ZqC-AchsOD4
 2. [Key Features](#key-features)
 3. [My Approach](#my-approach)
 4. [Technologies Used](#technologies-used)
-5. [ER Diagram](#er-diagram)
+5. [ER Diagram and Database Schemas](#er-diagram-and-database-schemas)
 6. [Screenshots](#screenshots)
 7. [Getting Started](#getting-started)
 
@@ -79,12 +79,18 @@ This application is dedicated to fostering physical and mental well-being. It of
 - Node as JavaScript runtime environment and to perform server side operations.
 - MongoDB as database management system to store and retrieve information.
 
-## ER Diagram
+## ER Diagram and Database Schemas
+
+### ER Diagram
+![Screenshot (203)](https://github.com/Brothin/FlexYoga/assets/78947331/d26947e9-12a6-466d-8387-f5535422aa2e)
+
+### MongoDB Database
+![Screenshot (201)](https://github.com/Brothin/FlexYoga/assets/78947331/67e34f4c-9e3c-4ca9-ac7f-b07d1c047484)
 
 ## Screenshots
 
 ### Sign-In Page
-![Screenshot (199)](https://github.com/Brothin/FlexYoga/assets/78947331/9ff62bdc-82b0-45b0-8071-2617fa154b12)
+![Screenshot (199)](https://github.com/Brothin/FlexYoga/assets/78947331/3ed9738d-4bb2-4f44-bb6c-1bd1fd60659e)
 
 ### Landing Page
 ![Screenshot (193)](https://github.com/Brothin/FlexYoga/assets/78947331/d1a041a5-ff69-4531-9f62-be1143295e76)
