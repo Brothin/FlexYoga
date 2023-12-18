@@ -82,7 +82,8 @@ This application is dedicated to fostering physical and mental well-being. It of
 ## ER Diagram and Database Schemas
 
 ### ER Diagram
-![Screenshot (203)](https://github.com/Brothin/FlexYoga/assets/78947331/d26947e9-12a6-466d-8387-f5535422aa2e)
+![Screenshot (204)](https://github.com/Brothin/FlexYoga/assets/78947331/7ef94624-a603-4c94-b8e1-1e2310f6eef9)
+
 
 ### MongoDB Database
 ![Screenshot (201)](https://github.com/Brothin/FlexYoga/assets/78947331/67e34f4c-9e3c-4ca9-ac7f-b07d1c047484)
