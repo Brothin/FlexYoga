@@ -32,7 +32,7 @@ This application is dedicated to fostering physical and mental well-being. It of
 - Secure user authentication and money transaction.
 
 ## 👨🏻‍💻 My Approach
-### My approach for this project was:
+### My approach for this project:
 
 1. Create frontend of the website using html, css and reactjs.
    
@@ -49,7 +49,7 @@ This application is dedicated to fostering physical and mental well-being. It of
 7. Show a "Payment Successful" message when the user is registered.
 
 
-### The basic validations which I did in the project are as follows:
+### The basic validations for the admission form:
 
 1. Every input field should be filled by the user.
    
@@ -67,7 +67,7 @@ This application is dedicated to fostering physical and mental well-being. It of
 
 ## ⚡ Technologies Used
 
-### The following technologies is utilized in this project:
+### The following technologies are utilized in this project:
 
 - HTML (Hypertext Markup Language) for structuring the content of the website.
 - CSS (Cascading Style Sheets) for styling and enhancing the visual appearance.
