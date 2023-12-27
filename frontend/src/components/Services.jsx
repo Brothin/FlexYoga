@@ -128,7 +128,7 @@ OK,thanks for reminding </button>
            <Modal.Title>Sorry!!</Modal.Title>
        </Modal.Header>
         <Modal.Body>
-You already choosed this service        </Modal.Body>
+You already chose this service        </Modal.Body>
         <Modal.Footer>
           
           <button className='contact-btn'
