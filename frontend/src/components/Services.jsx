@@ -135,7 +135,7 @@ You already chose this service        </Modal.Body>
                       onClick={closeModal}
 
           >
-You already choosed one level from this service</button>
+You already chose one level from this service</button>
         </Modal.Footer>
       </Modal> 
     </div>
